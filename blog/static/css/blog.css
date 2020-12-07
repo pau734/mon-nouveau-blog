@@ -1,0 +1,64 @@
+h1 a, h2 a {
+    color: #ffa002;
+    font-family: 'Arial Rounded MT Bold', cursive;
+
+}
+body {
+    padding-left: 15px;
+    background-color: black;
+    background-image: url("https://mono-log.jp/archives/img/2019/07/190714b-thumb-autox720-66316.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+}
+
+.page-header {
+    background-color: #000000;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+    font-family: 'Arial Rounded MT Bold', cursive;
+    text-shadow: 0px 0px 1px #12d4ef, 0px 0px 1px #fc1846, 0px 0px 1px #ff1f1f;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #9d9c9c;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    color: #ffffff;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #20d3f3;
+    text-shadow: 0px 0px 5px #197d88, 0px 0px 5px #052339, 0px 0px 5px #161515;
+}
